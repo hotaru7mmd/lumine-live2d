@@ -1,0 +1,7 @@
+[
+    {
+        "name": "Lumine",
+        "model": "lumine/lumine.model3.json",
+        "textures": ["lumine/lumine.8192/texture_00.png"]
+    }
+]
